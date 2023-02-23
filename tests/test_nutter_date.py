@@ -1,5 +1,5 @@
 # Databricks notebook source
-# MAGIC %run ../custom_reader_notebook/delta/delta_reader
+# MAGIC %run ../custom_reader_notebook/delta/delta_add_date
 
 # COMMAND ----------
 
